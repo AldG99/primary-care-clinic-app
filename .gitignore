@@ -35,3 +35,15 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# firebase
+**/firebase.config.js
+
+# services
+**/src/services
+
+# hooks
+**/src/hooks
+
+# auth
+**/src/components/screens/auth
