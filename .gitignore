@@ -36,14 +36,8 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
-# firebase
-**/firebase.config.js
+# config
+**/src/config
 
 # services
-**/src/services
-
-# hooks
-**/src/hooks
-
-# auth
-**/src/components/screens/auth
+**/src/components/services
