@@ -40,4 +40,4 @@ yarn-error.*
 **/src/config
 
 # services
-**/src/components/services
+**/src/services
